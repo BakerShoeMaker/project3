@@ -108,3 +108,13 @@ input{
     width: 320px;
     height: 185px;
 }
+
+.addTimerButton {
+    text-decoration: none;
+    color: white;
+    background-color: #000032;
+    border-color: #000032;
+    font-family: 'Montserrat', sans-serif;
+    border: none;
+
+}
