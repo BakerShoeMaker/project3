@@ -5,6 +5,8 @@ My project three app allows users to create multiple timers which ultimately hel
 * HMTL/CSS/JS/JSX
 * React 
 * MongoDB 
+* EasyTimerjs
+* Momentjs
 
 ## How to use
 To use this app sign-in or (sign-up) into your account. Once you're in
